@@ -55,6 +55,7 @@ This website also allows the user and administrators to track their booking hist
 
 # Mock-Up Screenshot
 ![1](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/75d42666-09ba-4f42-b5df-aa32a2c004c2)
+- Main Page
 ![2 0](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/6d2888ca-7c58-4dd8-94ad-2c44603d158d)
 ![3](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/e6be0f98-a2a1-426b-996b-29627be5f583)
 ![4](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/3eddd16d-6d1f-4bdc-8e4e-01e37767abad)

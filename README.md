@@ -30,24 +30,32 @@ The development of this system is based on the following objectives:
 ## Features and Functionalities
 For our Sport Facility Booking System, we have included some features that can be used by the student and administration such as create account,make reservation,cancel reservation,⁠update reservation and  ⁠track the booking history. We are also developing for the use of both administrators and users where the users will be able to book a venue while the administrator will be able to see and record our booking history.
 
-1. Main Page
+1. Main Page-
 The first feature is the main page.This page displays the website’s logo and slogan to emphasize its purpose. Upon interaction the signup/login interface  appears, presenting the users with two buttons: sign up and log in. Once they have completed the sign-up form, they can click on the sign-up button, which will redirect them to the login page.
 
 
-2. Login/Create Account
+2. Login/Create Account-
 In the event that users click on the login button without having a registered account, they still have the option to sign up. At the bottom of the login page, there is a prompt that says, "Don't have an account? Sign up." Clicking on this prompt will take users to the sign-up page. Upon logging in, the homepage gracefully appears on the screen. It encompasses essential elements such as a navigation bar, and a convenient log-out option.  To enhance user navigation, categories are presented in text format and also accompanied by corresponding icons that show two categories: male sports center and female sports center.
 
-3. Make Reservation
+3. Make Reservation-
 Next, the users will be directed to the venue booking interface page. When users select the venue at the website, they can click on the sport categories, and the interface displays the venue details in a visually appealing manner. For instance, if a male user searches for a stadium, the interface showcases an image of the stadium, accompanied by its location and facility. Availability slots depend on the date, time and day of the venue.If there is an availability slot, the user may book their slot based on their desired times.
 
-4. Update Reservation
+4. Update Reservation-
 The update reservation feature allows users to modify existing bookings seamlessly. Whether it's adjusting the date, time, location, or duration of the reservation, users can make real-time changes, ensuring their plans align with evolving schedules.
 
-5. Cancel Reservation
+5. Cancel Reservation-
 The system ensures that the cancellation process is straightforward, with users receiving confirmation prompts to confirm their intent.
 
-6. Track Booking History
+6. Track Booking History-
 This website also allows the user and administrators to track their booking history.It will include their details of their reservations such as time, dates,days and venue.This feature also helps administrators to record the reservation activity for each venue.
+
+# Entity-Relationshop Diagram
+
+# Sequence Diagram
+
+# Mock-Up Screenshots
+![Screenshot 2024-01-01 152723](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/5627b4b1-ddfa-4f16-968a-f28ca3a5967d)
+
 
 
 

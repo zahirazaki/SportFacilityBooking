@@ -50,6 +50,7 @@ The system ensures that the cancellation process is straightforward, with users 
 This website also allows the user and staffs to track their booking history.It will include their details of their reservations such as time, dates,days and venue.This feature also helps administrators to record the reservation activity for each venue.
 
 # Entity-Relationshop Diagram
+![ERD](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/d217a63e-bfd5-42b1-85c5-c168bcdb0be8)
 
 # Sequence Diagram
 ![sdiagram](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/2a4b14bf-94ee-4509-be50-17dbe2630f18)

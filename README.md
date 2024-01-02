@@ -78,7 +78,7 @@ This website also allows the user and staffs to track their booking history.It w
 ![10](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/1fa3bc47-266b-4b1d-b587-483b972ef17f)
 ### 11. Update Booking Page
 ![11](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/f94c1173-8d27-45b9-b3ef-5b4c80eadb4a)
-### 12. Success Booking Page
+### 12. Success Registration Page
 ![12](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/25c020ec-1e66-426b-9031-11d12c4a5680)
 
 # References 

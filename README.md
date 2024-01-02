@@ -64,22 +64,22 @@ This website also allows the user and staffs to track their booking history.It w
 ![12](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/25c020ec-1e66-426b-9031-11d12c4a5680)
 ### 4. Log In Page
 ![3](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/e6be0f98-a2a1-426b-996b-29627be5f583)
-### 5. Booking Page
+### 5.Available Venue Page
+![9](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/17a1f1ef-ea78-442b-a200-dfe34ec21fb4)
+### 6. Booking Page
 ![4](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/3eddd16d-6d1f-4bdc-8e4e-01e37767abad)
-### 6.Successful Booking Page
+### 7.Successful Booking Page
 ![5](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/3769823e-c6d7-4f12-b594-0f03820b1a0f)
-### 7. Contact Page
-![6](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/5271803f-6272-43dd-ae82-4f837a315143)
 ### 8. Info Page
 ![7](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/ee9fb4f9-28be-4f57-a317-760a3ee43764)
 ### 9. Booking History Page
 ![8](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/744f8d71-9f51-4e77-b82a-646774b230a9)
-### 10.Available Venue Page
-![9](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/17a1f1ef-ea78-442b-a200-dfe34ec21fb4)
-### 11. Delete Booking Page
+### 10. Delete Booking Page
 ![10](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/1fa3bc47-266b-4b1d-b587-483b972ef17f)
-### 12. Update Booking Page
+### 11. Update Booking Page
 ![11](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/f94c1173-8d27-45b9-b3ef-5b4c80eadb4a)
+### 12. Contact Page
+![6](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/5271803f-6272-43dd-ae82-4f837a315143)
 
 # References 
 ### https://bootstrapmade.com/demo/Restaurantly/

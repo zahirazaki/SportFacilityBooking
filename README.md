@@ -86,24 +86,31 @@ This website also allows the user and staff to track their booking history. It w
 
 ### 1.  Main Page
 ![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/7cb9f894-5ca1-4058-8191-505133b61e5c)
+The main page of a sports facility booking website serves as the digital gateway, providing users with crucial information and access to various features.
 
 ### 2. About Page
 ![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/26d28111-e0d4-4988-a29b-d03bb8608698)
+Display the details of our website.
 
 ### 3. Venue Page
-![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/d396a647-30d4-438b-8701-46a093e4a796)
+![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/81c6f64f-55ce-4ea9-a68f-1fedb1836bfe)
+A prominent section showcasing available sports facilities is vital. This may include high-quality images.
 
 ### 4. Book A Slot Page
 
+Clear calls-to-action for booking should be readily accessible. This can be achieved through strategically placed buttons or links leading to the booking section.
+
 ### 5. Contact Page
 ![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/73d5bc22-7eda-4d8e-adba-2d6c886e52da)
+Displaying contact details, including a name, email address, subject, message, and display information of the location, open hours, and phone number allows users to get in touch for inquiries or support.
 
 ### 6. Registration Page
 ![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/2f04fec2-b4ef-40e3-acc8-ebc9a5147f8b)
+Allow users to register or make a new account to book the venue.
 
-
-### 8. Log In Page
+### 7. Log In Page
 ![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/2853f676-27aa-465e-9d7c-21304f61c7c8)
+Allow user to log in using their registered email and password.
 
 
 

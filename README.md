@@ -47,7 +47,7 @@ The update reservation feature allows users to modify existing bookings seamless
 The system ensures that the cancellation process is straightforward, with users receiving confirmation prompts to confirm their intent.
 
 6. Track Booking History-
-This website also allows the user and staffs to track their booking history.It will include their details of their reservations such as time, dates,days and venue.This feature also helps administrators to record the reservation activity for each venue.
+This website also allows the user and staff to track their booking history. It will include the details of their reservations such as time, dates, days and venue. This feature also helps administrators to record the reservation activity for each venue.
 
 # Entity-Relationship Diagram
 ![ERD](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/d217a63e-bfd5-42b1-85c5-c168bcdb0be8)
@@ -97,6 +97,15 @@ This website also allows the user and staffs to track their booking history.It w
 
 ### 5. Contact Page
 ![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/73d5bc22-7eda-4d8e-adba-2d6c886e52da)
+
+### 6. Registration Page
+![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/2f04fec2-b4ef-40e3-acc8-ebc9a5147f8b)
+
+
+### 8. Log In Page
+![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/2853f676-27aa-465e-9d7c-21304f61c7c8)
+
+
 
 
 

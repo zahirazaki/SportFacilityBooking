@@ -83,7 +83,25 @@ This website also allows the user and staffs to track their booking history.It w
 
 
 # Screenshots of Web Pages
+
+### 1.  Main Page
 ![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/7cb9f894-5ca1-4058-8191-505133b61e5c)
+
+### 2. About Page
+![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/26d28111-e0d4-4988-a29b-d03bb8608698)
+
+### 3. Venue Page
+![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/d396a647-30d4-438b-8701-46a093e4a796)
+
+### 4. Book A Slot Page
+
+### 5. Contact Page
+![image](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/73d5bc22-7eda-4d8e-adba-2d6c886e52da)
+
+
+
+
+
 
 # Challenges to Develop The Application
 Developing a web application for a sports facility booking system poses several challenges, each requiring thoughtful consideration and strategic solutions. Designing a system that is flexible enough to accommodate various booking scenarios is essential. Striking a balance between inclusivity and specificity in this regard is a notable challenge.

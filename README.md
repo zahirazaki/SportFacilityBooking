@@ -84,7 +84,7 @@ This website also allows the user and staffs to track their booking history.It w
 
 # Screenshots of Web Pages
 
-# Challenges to develop the application
+# Challenges to Develop The Application
 Developing a web application for a sports facility booking system poses several challenges, each requiring thoughtful consideration and strategic solutions. Designing a system that is flexible enough to accommodate various booking scenarios is essential. Striking a balance between inclusivity and specificity in this regard is a notable challenge.
 
 Another critical aspect is the user experience (UX). Ensuring a seamless and intuitive booking process for users with different levels of technical expertise can be challenging. The system must be feature-rich yet maintain simplicity to cater to a broad user base effectively. Real-time availability updates add another layer of complexity. Providing instantaneous updates on facility availability demands a robust system capable of handling concurrent bookings and updating availability in real-time. This necessitates a meticulous approach to the backend infrastructure to ensure accuracy and responsiveness. Cross-platform compatibility is an overarching challenge in today's diverse digital landscape. Ensuring that the web application functions seamlessly across various devices and browsers requires thorough testing and optimization.

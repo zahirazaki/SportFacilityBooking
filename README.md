@@ -1,4 +1,4 @@
-# Proposal
+# PROJECT REPORT
 - Course Code and Title: INFO 3305 Web Application Development
 - Section: 1
 - Group: 5
@@ -81,6 +81,8 @@ This website also allows the user and staffs to track their booking history.It w
 ### 12. Contact Page
 ![6](https://github.com/zahirazaki/SportFacilityBooking/assets/147645236/5271803f-6272-43dd-ae82-4f837a315143)
 
+
+#Screenshots of Web Pages
 
 # References 
 ### https://bootstrapmade.com/demo/Restaurantly/
